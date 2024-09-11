@@ -7,7 +7,7 @@ the value of their products in the market. The main focus of
 the project is to create a deep learning model which is able
 to predict a textile product price based on various features
 such as brand, category, and product attributes of other similar
-products, from the given dataset. The model utilizes a multilayered neural network architecture with batch normalization
+products, from the given dataset. The model utilizes a multi layered neural network architecture with batch normalization
 and dropout regularization to prevent over fitting. The dataset is
 preprocessed using a combination of numerical and categorical
 feature transformations. The model is trained using the Adam
