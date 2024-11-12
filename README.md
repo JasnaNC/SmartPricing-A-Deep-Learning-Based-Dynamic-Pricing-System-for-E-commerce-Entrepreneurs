@@ -35,7 +35,7 @@ The model is built using the Myntra Fashion Products dataset, which includes var
 
 ### Results
 The model achieved:
-Mean Absolute Error (MAE):The model achieved a MAE of 0.4108, indicating a high level of accuracy in price prediction.
+- Mean Absolute Error (MAE):The model achieved a MAE of 0.4108, indicating a high level of accuracy in price prediction.
 - Custom Accuracy :The model's ability to predict prices within 10% of the actual price with an accuracy of 84.12% demonstrates its practical applicability in dynamic pricing. 
 
 ### Future Improvements
